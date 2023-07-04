@@ -1,4 +1,4 @@
-# [Maze Solver]
+# [Maze Solver](https://maze-solver.pages.dev/)
 
 ## Description
 
