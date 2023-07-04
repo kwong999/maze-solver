@@ -1,6 +1,6 @@
-const Tile = require('./tile.js');
-const AStar = require('./solver/a_star');
-const BFS = require('./solver/bfs');
+import Tile from './tile.js';
+import AStar from './solver/a_star.js';
+import BFS from './solver/bfs.js';
 
 class Board {
   constructor(dimension) {

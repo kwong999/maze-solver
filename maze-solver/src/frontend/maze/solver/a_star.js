@@ -1,4 +1,4 @@
-const Tile = require('../tile');
+import Tile from '../tile.js'
 
 const DIRECTIONS = [
   [1, 0], [-1, 0], [-1, 1], [1, 1],
@@ -67,4 +67,4 @@ const AStar = {
   }
 }
 
-module.exports = AStar;
+export default AStar;

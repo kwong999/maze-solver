@@ -4,6 +4,7 @@ const TYPE =[
   'start',
   'end'
 ]
+
 class Tile {
   constructor(pos, parent = false) {
     this.pos = pos;
@@ -38,4 +39,4 @@ class Tile {
   }
 }
 
-module.exports = Tile;
+export default Tile;
