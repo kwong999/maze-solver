@@ -1,10 +1,10 @@
-# [Maze Solver](https://my-maze-solver.herokuapp.com/)
+# [Maze Solver]
 
 ## Description
 
 An application for maze customization and analysis.
 
-![Index](/readme/index.jpg?raw=true "Index")
+![Index](/maze-solver/readme/index.jpg?raw=true "Index")
 
 ## Functions
 
@@ -14,7 +14,7 @@ An application for maze customization and analysis.
 * Investigate searched path
 * Make minor changes without reset whole maze
 
-![Maze](/readme/maze.jpg?raw=true "Maze")
+![Maze](/maze-solver/readme/maze.jpg?raw=true "Maze")
 
 ## Built With
 
